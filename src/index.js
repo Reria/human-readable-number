@@ -5,7 +5,7 @@ module.exports = function toReadable (number) {
         'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen',
         'sixteen', 'seventeen', 'eighteen', 'nineteen'
     ];
-пш
+
     const tens = [
         '', '', 'twenty', 'thirty', 'forty', 'fifty', 
         'sixty', 'seventy', 'eighty', 'ninety'
